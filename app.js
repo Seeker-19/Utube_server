@@ -16,7 +16,7 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: "https://youtub-iota.vercel.app",
+    origin: "https://utub-three.vercel.app",
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })
